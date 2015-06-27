@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="orderedtest1" storage="d:\visual studio 2013\projects\informationretrieval\binaryheaptests\orderedtest1.orderedtest" id="d747ae91-8b56-4698-98f7-ccca7ac8a822" continueAfterFailure="true" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="23fd74e3-93b3-6682-6c54-04b5a1022ec1" name="BuildHeap_InitialArrayIsNull_ThrowsArgumentNullException" storage="bin\debug\binaryheaptests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="bb0e316f-b228-dc1a-15ad-f1d15461e9b1" name="GetMax_MaxElementObtained_NoMaxElementInHeap" storage="bin\debug\binaryheaptests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="8db6e950-6a48-bffe-5f87-ff7f09f530ed" name="Add_AddingNewElement_ElementAddedToHeap" storage="bin\debug\binaryheaptests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="a698ed97-08e0-76c4-1ea9-dc6b08c5900c" name="GetMax_GettingElementAtZeroIndex_MaxElementObtained" storage="bin\debug\binaryheaptests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="bb0e316f-b228-dc1a-15ad-f1d15461e9b1" name="GetMax_MaxElementObtained_NoMaxElementInHeap" storage="bin\debug\binaryheaptests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
